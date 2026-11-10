@@ -1,0 +1,11 @@
+{
+  "name": "शब्दकोश — Hindi Dictionary",
+  "short_name": "शब्दकोश",
+  "description": "Search Hindi words in Devanagari or Roman spelling.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf7f0",
+  "theme_color": "#7a2e12",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
